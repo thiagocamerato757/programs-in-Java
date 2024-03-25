@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="INF1636/exercitandoJAVA"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-21-oracle-x64"/>
+	<classpathentry kind="output" path="INF1636/exercitandoJAVA"/>
+</classpath>
